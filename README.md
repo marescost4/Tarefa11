@@ -12,7 +12,9 @@ Ao longo do notebook, os resultados das simulações serão apresentados por mei
 
 Observação: os dados utilizados nas simulações deste trabalho são dados simulados, criados exclusivamente para demonstrar a aplicação dos modelos probabilísticos. Eles não representam uma coleta experimental real.
 
-###Bibliotecas utilizadas
+
+
+Bibliotecas utilizadas
 
 Para realizar as simulações, cálculos e visualizações serão utilizadas as bibliotecas NumPy, Pandas, Matplotlib e SciPy.
 
@@ -21,13 +23,15 @@ Para realizar as simulações, cálculos e visualizações serão utilizadas as 
 - **Matplotlib:** construção de gráficos;
 - **SciPy:** utilização das distribuições de probabilidade.
 
-###Referências 
+
+
+Referências 
+
+MAGALHÃES, Marcos Nascimento; LIMA, Antonio Carlos Pedroso de. Noções de Probabilidade e Estatística. 7 ed, 1. reimpr.- São Paulo: Editora da Universidade de São Paulo, 2011.
 
 PAULA, Fernanda; SANTOS, Domingos. INTER-RELAÇÕES ENTRE AS DISTRIBUIÇÕES DE BERNOULLI, BINOMIAL E POISSON NO COTIDIANO: CONTRIBUIÇÕES PARA O ENSINO E APRENDIZAGEM DE PROBABILIDADE. Conex. Ci. e Tecnol. Fortaleza/CE, v.20, p. 01-14, e026002, 2026. Submetido em: 5 de maio de 2025. Aceito em: 2 de set. de 2025. DOI: 10.21439/conexoes.v20.4095.
 
 PORTNOI, Marcos. PROBABILIDADE, VARIÁVEIS ALEATÓRIAS, DISTRIBUIÇÃO DE PROBABILIDADES E GERAÇÃO ALEATÓRIA: Conceitos sob a ótica de Avaliação de Desempenho de Sistemas. Edição 26.6.2010. Universidade Salvador – UNIFACS, 2005.
-
-MAGALHÃES, Marcos Nascimento; LIMA, Antonio Carlos Pedroso de. Noções de Probabilidade e Estatística. 7 ed, 1. reimpr.- São Paulo: Editora da Universidade de São Paulo, 2011.-(Acadèmica; 40).
 
 ROSS, Sheldon. A First Course in Probability.
 
