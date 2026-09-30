@@ -12,7 +12,7 @@ Ao longo do notebook, os resultados das simulações serão apresentados por mei
 
 Observação: os dados utilizados nas simulações deste trabalho são dados simulados, criados exclusivamente para demonstrar a aplicação dos modelos probabilísticos. Eles não representam uma coleta experimental real.
 
-Bibliotecas utilizadas
+###Bibliotecas utilizadas
 
 Para realizar as simulações, cálculos e visualizações serão utilizadas as bibliotecas NumPy, Pandas, Matplotlib e SciPy.
 
@@ -21,7 +21,7 @@ Para realizar as simulações, cálculos e visualizações serão utilizadas as 
 - **Matplotlib:** construção de gráficos;
 - **SciPy:** utilização das distribuições de probabilidade.
 
-Referências
+###Referências 
 
 PAULA, Fernanda; SANTOS, Domingos. INTER-RELAÇÕES ENTRE AS DISTRIBUIÇÕES DE BERNOULLI, BINOMIAL E POISSON NO COTIDIANO: CONTRIBUIÇÕES PARA O ENSINO E APRENDIZAGEM DE PROBABILIDADE. Conex. Ci. e Tecnol. Fortaleza/CE, v.20, p. 01-14, e026002, 2026. Submetido em: 5 de maio de 2025. Aceito em: 2 de set. de 2025. DOI: 10.21439/conexoes.v20.4095.
 
