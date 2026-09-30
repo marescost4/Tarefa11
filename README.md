@@ -25,7 +25,7 @@ Para realizar as simulações, cálculos e visualizações serão utilizadas as 
 
 
 
-Referências 
+Referencias bibliograficas
 
 MAGALHÃES, Marcos Nascimento; LIMA, Antonio Carlos Pedroso de. Noções de Probabilidade e Estatística. 7 ed, 1. reimpr.- São Paulo: Editora da Universidade de São Paulo, 2011.
 
